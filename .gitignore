@@ -1,0 +1,16 @@
+# fichiers PHPStorm
+/.idea/
+# fichiers netbeans
+/nbproject/
+# fichiers de cache (var)
+/var/*
+!/var/cache
+/var/cache/*
+!var/cache/.gitkeep
+!/var/logs
+/var/logs/*
+!var/logs/.gitkeep
+!/var/sessions
+/var/sessions/*
+!var/sessions/.gitkeep
+!var/SymfonyRequirements.php
